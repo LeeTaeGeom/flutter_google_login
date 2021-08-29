@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600319980782",
+    "project_id": "valueuplogin-26659",
+    "storage_bucket": "valueuplogin-26659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600319980782:android:c6d6f3b468001a2aa56fff",
+        "android_client_info": {
+          "package_name": "com.sudar.snslogin.valueuplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600319980782-9jsfv7q982hclakpflb76kg5hgh7uf2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudar.snslogin.valueuplogin",
+            "certificate_hash": "58ecdc870004ff1550a2673947c3b086b81f2b9b"
+          }
+        },
+        {
+          "client_id": "600319980782-9hqjj9arvknnecfin1a9gu7hras5qp11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcfHVLTQ_BszAaY5VZr2Rky4SW2a2m0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600319980782-9hqjj9arvknnecfin1a9gu7hras5qp11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
